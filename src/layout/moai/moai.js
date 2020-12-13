@@ -8,7 +8,7 @@ export function render() {
     const template = `
         <div class="await-style moai-container">
             <p class="moai-container__thought">${letsThink()}</p>
-            <img class="moai-container__ebalo" src="src/img/moai.png" alt="">            
+            <img class="moai-container__ebalo" src="src/img/moai.svg" alt="">            
         </div>`;
     Renderer.render(selfSelector, template)
 }

@@ -11,3 +11,9 @@
 .stock-info-container .stock-info-container__result {
     margin-top: 8px;
 }
+
+.stock-info-container .stock-info-container__x-block {
+    font-size: 50px;
+    margin-top: 16px;
+    margin-bottom: 12px;
+}
